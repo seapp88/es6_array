@@ -1,6 +1,8 @@
+ - [Russian varian](https://github.com/seapp88/es6_array/blob/master/README_RU.md)
+
 # Array intersection, difference and union in ES6
 
-For all the examples, we have two arrays, A `let arrA=[1,3,4,5]` & `let arrB=[1,2,5,6,7]`
+For all the examples, we have two arrays, A `let arrA=[1,3,4,5]` & B `let arrB=[1,2,5,6,7]`
 
 ## Intersection
 The intersection will give us the elements that both arrays share in common, in this case the result must be `[1,5]`.
