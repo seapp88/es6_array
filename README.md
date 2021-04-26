@@ -30,4 +30,4 @@ The union must be the simplest of them all, at the end, the result should be all
 
 But, there is a problem is that if we use spread operator, we will get elements duplicated, so it’s no theoretically an union. For doing this we have can use a Set to help us out:
 
-`let union = [...new Set([...arrA, ...arrB)];`
+`let union = [...new Set([...arrA, ...arrB])];`
